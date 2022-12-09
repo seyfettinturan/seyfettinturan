@@ -1,5 +1,5 @@
 <!-- ![GitHub stars](https://img.shields.io/github/stars/seyfettinturan?style=social) -->
-![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg) -->
 <div align="center">
  
 [![GitHub followers](https://img.shields.io/github/followers/seyfettinturan?style=flat&logo=github)](https://github.com/seyfettinturan?tab=followers)
