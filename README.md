@@ -48,9 +48,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=seyfettinturan&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
-
+  
+<!-- !
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=torukobyte&theme=nord&v=2&layout=compact&langs_count=10&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/seyfettinturan)
-
+-->
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seyfettinturan&theme=nord)](https://github.com/seyfettinturan)
